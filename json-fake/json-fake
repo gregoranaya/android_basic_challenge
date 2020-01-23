@@ -1,0 +1,45 @@
+{
+	"list" : [
+			{
+				"name" : "Estado unidos",
+				"currency" : "dolares",
+				"source" : "USD",
+				"img" : "link",
+				"quotes" : {
+					"PEN" : 0.3,
+					"EUR" : 2,
+					"CNY" : 3
+				}
+			},{
+				"name" : "Perú",
+				"currency" : "soles",
+				"source" : "PEN",
+				"img" : "link",
+				"quotes" : {
+					"USD" : 3,
+					"EUR" : 4,
+					"CNY" : 5
+				}
+			},{
+				"name" : "Europa",
+				"currency" : "euro",
+				"source" : "EUR",
+				"img" : "link",
+				"quotes" : {
+					"PEN" : 0.4,
+					"USD" : 0.2,
+					"CNY" : 4
+				}
+			},{
+				"name" : "China",
+				"currency" : "yen",
+				"source" : "CNY",
+				"img" : "link",
+				"quotes" : {
+					"PEN" : 0.5,
+					"EUR" : 0.4,
+					"USD" : 0.3
+				}
+			}
+	]
+}
